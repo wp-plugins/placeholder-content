@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Placeholder Content\n"
+"POT-Creation-Date: 2015-04-22 22:23-0500\n"
+"PO-Revision-Date: 2015-04-22 22:23-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: placeholder.php:40
+msgid "Placeholder"
+msgstr ""
+
+#: placeholder.php:87
+msgid "Generate Placeholder Content"
+msgstr ""
+
+#: placeholder.php:88
+msgid "History"
+msgstr ""
+
+#: placeholder.php:147 placeholder.php:232
+msgid "The placeholder content has been generated."
+msgstr ""
+
+#: placeholder.php:149
+msgid "Please ensure that all required fields are checked."
+msgstr ""
+
+#: placeholder.php:168
+msgid ""
+"There are occasions when you need to create multiple Posts to see how they "
+"look with your chosen WP Theme. This plugin assists in auto generating "
+"placeholder content instead of you doing so manually.  Simply follow the "
+"easy steps below to create that dummy content for your website. Please note "
+"that you should not use this for actual content of a live website."
+msgstr ""
+
+#: placeholder.php:170
+msgid "Select the Post Type"
+msgstr ""
+
+#: placeholder.php:180
+msgid "Select amount of posts to generate"
+msgstr ""
+
+#: placeholder.php:190
+msgid "Select from the categories to associate with your posts"
+msgstr ""
+
+#: placeholder.php:201
+msgid "Publish"
+msgstr ""
+
+#: placeholder.php:243
+msgid ""
+"Below is a list of times when you generated placeholder content. If those "
+"posts or pages still exist, you can remove them by selecting the instance "
+"and clicking the Trash button."
+msgstr ""
+
+#: placeholder.php:256
+msgid "Trash"
+msgstr ""
+
+#: placeholder.php:261
+msgid "There is currently no record of any placeholder content generated."
+msgstr ""
